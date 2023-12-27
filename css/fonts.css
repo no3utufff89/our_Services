@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Lora';
+    src: url('../assets/fonts/Lora-Medium.ttf');
+    src: local('Lora'), local('Lora-Medium'),
+        url('../assets/fonts/Lora-Medium.woff2') format('woff2');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../assets/fonts/Lato-Semibold.ttf');
+    src: local('Lora'), local('Lato-Semibold'),
+        url('../assets/fonts/Lato-Semibold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../assets/fonts/Lato-Regular.ttf');
+    src: local('Lora'), local('Lato-Regular'),
+        url('../assets/fonts/Lato-Regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
